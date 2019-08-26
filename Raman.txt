@@ -1,0 +1,53 @@
+Clinical instrumentation and applications of Raman spectroscopy
+Raman C, Krishnan K. Nature. 1928;121:501–502
+Colored Coded Aperture Design by Concentration of Measure in Compressive Spectral Imaging
+https://ieeexplore.ieee.org/document/7869901
+
+=================================
+		Format
+=================================
+Original, Downsampled, reconstructed
+RMSE values in caption
+Videos annotated with original, downsampled and reconstructed
+
+(Acquisition time for each of these)
+(Specs of our Raman Spectrometer)
+
+Random sampling
+------------------------
+Synthetic : Two results (Edge-based from Caltech)
+Si_13 10,16   54,47   52,67
+Si_9  22,17	  37,27   40,22	 71 X 71
+Si_5  26,16   20,14	  32,21  41 X 41
+Si_12 45,36   57,62	  60,44	 101 X 101 
+paraffin - 101,130,67   20,8  30,5  25,14
+test - 	62,82			15,14 22,40	25,35
+Germany 145,171 11,12 13,11 10,9
+radial
+rectangular
+
+Real results - Si-13,12,5,9, Paraffin, GaN3, Germany
+
+Structured sampling
+------------------------
+Silicon, Paraffin, 1 Synthetic 
+
+Si_13 12,12
+Si_13 12,12
+paraffin 101,130,67 12,12 (02)
+paraffin 101,130,67 12,12 (05)
+Randomial
+
+Citations : 
+Caltech,
+
+mention undersampling 
+
+
+Synthetic dataset from this lab :  smooth linear combination of 2 spectral pattern of this materials from this websites (Link)
+spectro specs   Put acquisiton times
+We perfed 3 exps for each datasets Random 20, 50 and 80 of pixels measured. Result on 1 synthetic dataset
+Si -1 , GaN3, paraffin
+
+Rest - supplemental material
+complete video given in suppl in video forma 

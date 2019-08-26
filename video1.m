@@ -1,0 +1,41 @@
+% load('BTP mat\ICIP 2019\Random sampling\Si_9_border\Si_9_sto_RMSE_0.15801_c0.2_psz4_onTheFly.mat');
+% show(img, new_img, recon_img1, 'Si_9_0.2.avi', 240);
+% load('BTP mat\ICIP 2019\Random sampling\Si_9_border\Si_9_sto_RMSE_0.18409_c0.5_psz4_onTheFly.mat');
+% show(img, new_img, recon_img1, 'Si_9_0.5.avi', 240);
+% load('BTP mat\ICIP 2019\Random sampling\Si_9_border\Si_9_sto_RMSE_0.27115_c0.8_psz4_onTheFly.mat');
+% show(img, new_img, recon_img1, 'Si_9_0.8.avi', 240);
+% 
+% close all;
+
+% load('BTP mat\ICIP 2019\Random sampling\Aspirin_Germany\Aspirin_sto_RMSE_0.30213_c0.2_psz3_onTheFly.mat');
+% show(img, new_img, recon_img1, 'Aspirin_0.2.avi', 240);
+% load('BTP mat\ICIP 2019\Random sampling\Aspirin_Germany\Aspirin_sto_RMSE_0.43439_c0.5_psz3_onTheFly.mat');
+% show(img, new_img, recon_img1, 'Aspirin_0.5.avi', 240);
+% load('BTP mat\ICIP 2019\Random sampling\Aspirin_Germany\Aspirin_sto_RMSE_0.59368_c0.8_psz3_onTheFly.mat');
+% show(img, new_img, recon_img1, 'Aspirin_0.8.avi', 240);
+% 
+% close all;
+load('BTP mat\ICIP 2019\Random sampling\Si_5\Si_5_sto_RMSE_0.074049_c0.2_psz4_onTheFly.mat');
+show(img, new_img, recon_img1, 'Si_random_80%_Sampling', 240);
+% show(img, new_img, recon_img1, 'Si', 80, 26, 16, 3, 'spectralPlot_Si_random_80%Sampling');
+load('BTP mat\ICIP 2019\Random sampling\Si_5\Si_5_sto_RMSE_0.089396_c0.5_psz4_onTheFly.mat');
+show(img, new_img, recon_img1, 'Si_random_50%_Sampling', 240);
+% show(img, new_img, recon_img1, 'Si', 50, 20, 14, 3, 'spectralPlot_Si_random_50%Sampling');
+load('BTP mat\ICIP 2019\Random sampling\Si_5\Si_5_sto_RMSE_0.14299_c0.8_psz4_onTheFly.mat');
+show(img, new_img, recon_img1, 'Si_random_20%_Sampling', 240);
+% show(img, new_img, recon_img1, 'Si', 20, 32, 21, 3, 'spectralPlot_Si_random_20%Sampling');
+close all;
+% load('BTP mat\ICIP 2019\Random sampling\artificial_rectangle\rectangular1_euclidean_RMSE_0.09632_c0.5_psz8_onTheFly.mat');
+% show(img, new_img, recon_img1, 'rect_0.5.avi');
+% load('BTP mat\ICIP 2019\Random sampling\artificial_rectangle\rectangular1_euclidean_RMSE_0.10421_c0.2_psz8_onTheFly.mat');
+% show(img, new_img, recon_img1, 'rect_0.2.avi');
+% load('BTP mat\ICIP 2019\Random sampling\artificial_rectangle\rectangular1_euclidean_RMSE_0.11446_c0.8_psz8_onTheFly.mat');
+% show(img, new_img, recon_img1, 'rect_0.8.avi');
+% close all;
+% load('BTP mat\ICIP 2019\Random sampling\custom_radial\radial1_euclidean_RMSE_0.039285_c0.8_psz8_onTheFly.mat');
+% show(img, new_img, recon_img1, 'radial_0.8.avi');
+% load('BTP mat\ICIP 2019\Random sampling\custom_radial\radial1_euclidean_RMSE_0.055996_c0.5_psz8_onTheFly.mat');
+% show(img, new_img, recon_img1, 'radial_0.5.avi');
+% load('BTP mat\ICIP 2019\Random sampling\custom_radial\radial1_euclidean_RMSE_0.093172_c0.2_psz8_onTheFly.mat');
+% show(img, new_img, recon_img1, 'radial_0.2.avi');
+% close all;
